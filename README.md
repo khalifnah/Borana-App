@@ -14,8 +14,8 @@
 - **Offline Access**: No internet? No problem.  
 
 ## Tech Stack  
-- **Frontend**: Flutter (Dart)  
-- **Backend**: Firebase (Auth, Database) *(optional)*  
+- **Frontend**: Flutter/Dart  
+- **Backend**: Firebase 
 - **Design**: Figma  
 
 ## Getting Started  
