@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="assets/app_screenshot.png" width="300" alt="App Screenshot">  
-  *(Replace with actual screenshot)*  
+    
 </div>
 
 ## Features  
