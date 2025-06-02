@@ -1,0 +1,13 @@
+lib/
+├── main.dart          # Entry point
+├── models/           # Data classes (e.g., `phrase.dart`)
+├── screens/          # Pages
+│   ├── home.dart
+│   ├── learn.dart
+│   └── quiz.dart
+├── widgets/          # Reusable UI
+│   ├── phrase_card.dart
+│   └── custom_appbar.dart
+└── services/         # Logic/APIs
+    ├── audio_service.dart
+    └── firestore_service.dart
