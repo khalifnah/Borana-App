@@ -16,7 +16,7 @@
 ## Tech Stack  
 - **Frontend**: Flutter (Dart)  
 - **Backend**: Firebase (Auth, Database) *(optional)*  
-- **Design**: Figma ((https://figma.com/your-link))  
+- **Design**: Figma  
 
 ## Getting Started  
 ### Prerequisites  
