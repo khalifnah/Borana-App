@@ -3,8 +3,7 @@
 
 📱 **A mobile app to learn Borana (Oromo) language, explore traditions, and connect with the community.**  
 
-<div align="center">
-  <img src="assets/app_screenshot.png" width="300" alt="App Screenshot">  
+<div align="center">  
     
 </div>
 
@@ -17,7 +16,7 @@
 ## Tech Stack  
 - **Frontend**: Flutter (Dart)  
 - **Backend**: Firebase (Auth, Database) *(optional)*  
-- **Design**: Figma ([View Prototype](https://figma.com/your-link))  
+- **Design**: Figma ((https://figma.com/your-link))  
 
 ## Getting Started  
 ### Prerequisites  
